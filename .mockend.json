@@ -9,7 +9,7 @@
 		"jobTitle": "Associate Professor",
 		"organization": "Keyusa",
 		"email": "michael@keyusa.com",
-		"eppn": "michael@keyusa.com",
+		"eppn": "michael",
 		"courseLogs": [
 			{
 				"id": 3507,
@@ -151,7 +151,7 @@
 		"organization": "Keyusa",
 		"email": "adam@students.keyusa.com",
 		"autologinId": "adam@keyusa.com",
-		"eppn": "adam@keyusa.com",
+		"eppn": "adam",
 		"courseLogs": [
 			{
 				"id": 3662,
@@ -178,7 +178,7 @@
 		"jobTitle": "professor",
 		"organization": "Keyusa",
 		"email": "jonh.abraham@keyusa.com",
-		"eppn": "john@keyusa.com",
+		"eppn": "john",
 		"courseLogs": [
 			{
 				"id": 2652,
@@ -366,7 +366,7 @@
 		"jobTitle": "Research Asst",
 		"organization": "Keyusa",
 		"email": "scott@keyusa.com",
-		"eppn": "scott@keyusa.com",
+		"eppn": "scott",
 		"courseLogs": [
 			{
 				"id": 38,
@@ -549,7 +549,7 @@
 		"jobTitle": "PhD Student",
 		"organization": "Keyusa",
 		"email": "simon1@keyusa.com",
-		"eppn": "simon1@keyusa.com",
+		"eppn": "simon1",
 		"courseLogs": [
 			{
 				"id": 38,
@@ -677,7 +677,7 @@
 		"jobTitle": "Research Assistant",
 		"organization": "Keyusa",
 		"email": "simon@keyusa.com",
-		"eppn": "simon@keyusa.com",
+		"eppn": "simon",
 		"courseLogs": [
 			{
 				"id": 38,
@@ -891,7 +891,7 @@
 		"jobTitle": "Postdoctoral Research Fellow",
 		"organization": "Keyusa",
 		"email": "barbara@keyusa.com",
-		"eppn": "barbara@keyusa.com",
+		"eppn": "barbara",
 		"courseLogs": [
 			{
 				"id": 38,
@@ -1208,7 +1208,7 @@
 		"jobTitle": "PhD Candidate",
 		"organization": "Keyusa",
 		"email": "jones@keyusa.com",
-		"eppn": "jones@keyusa.com",
+		"eppn": "jones",
 		"courseLogs": [
 			{
 				"id": 2451,
@@ -1394,7 +1394,7 @@
 		"organization": "Keyusa",
 		"email": "Dane@keyusa.com",
 		"autologinId": "dxa700@keyusa.com",
-		"eppn": "dany@keyusa.com",
+		"eppn": "dany",
 		"courseLogs": [
 			{
 				"id": 5655,
